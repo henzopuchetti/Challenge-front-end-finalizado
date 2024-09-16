@@ -1,5 +1,7 @@
 Challenge - HH
 
+Integrantes: Henzo Boschiero Puchetti e Humberto de Sousa
+
 - Na pagina inicial contem um cabeçalho que nos permite navegar pelas funcionalidades do site(home, login, chamados, chatbot e integrantes)
 
 - Logo após colocamos uma imagem que representa um pouco do nosso processo seguindo com nossos dois principais serviços com suas descrições e em cada um deles um botão que permite ir direto para eles
@@ -12,6 +14,6 @@ Challenge - HH
 
 - Na página do chatbot é o detalhamento de um de nossos serviços que futuramente esperamos conseguir implantar um chatbot real para resolver os problemas do usuario em saber o que aconteceu com seu veiculo
 
--Ná página de chamados tem um outro form que vai permitir com que o usuario lançe um chamado para profissionais especializados que a partir disso vão conseguir dar um feedback
+- Ná página de chamados tem um outro form que vai permitir com que o usuario lançe um chamado para profissionais especializados que a partir disso vão conseguir dar um feedback
 
--E a página de integrantes permitindo com que todos vejam quem foram os responsaveis pelo projeto
+- E a página de integrantes permitindo com que todos vejam quem foram os responsaveis pelo projeto
