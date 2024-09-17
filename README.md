@@ -17,3 +17,6 @@ Integrantes: Henzo Boschiero Puchetti e Humberto de Sousa
 - Ná página de chamados tem um outro form que vai permitir com que o usuario lançe um chamado para profissionais especializados que a partir disso vão conseguir dar um feedback
 
 - E a página de integrantes permitindo com que todos vejam quem foram os responsaveis pelo projeto
+
+Link do video:
+https://youtu.be/8KjRRF6uUME
